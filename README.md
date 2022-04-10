@@ -1,4 +1,4 @@
-- 👋 Hi There 👋 
+### 👋 Hi There 👋 
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript and web development
 
