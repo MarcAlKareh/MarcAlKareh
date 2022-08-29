@@ -1,7 +1,7 @@
 ## 👋 Hi There 👋 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML & CSS and web development.
-- ➡️ I will learn React.js and back-end web development after learning front-end web development
+- 🌱 I’m currently learning Node.js and web development.
+- ➡️ I will learn React.js after learning back-end web development
 
 👑 Languages I am proficent in: JavaScript, Python, HTML & CSS
 
