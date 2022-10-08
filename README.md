@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node.js and web development.
 - ➡️ I will learn React.js after learning back-end web development
 
-👑 Languages I am proficent in: JavaScript, Python, HTML & CSS
+👑 Technologies I am proficent in: JavaScript, Python, HTML & CSS
 
 <img src="https://github-readme-stats.vercel.app/api?username=MarcAlKareh&&show_icons=true&theme=dark&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
