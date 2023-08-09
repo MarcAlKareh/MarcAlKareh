@@ -1,7 +1,6 @@
 ## 👋 Hi There 👋 
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and robotics
 - 🌱 I’m currently learning Node.js and back-end web development.
-- ➡️ I will learn React.js after learning back-end web development
 
 👑 Technologies I am proficent in: JavaScript, Python, HTML & CSS
 
